@@ -1,0 +1,10 @@
+^C:\USERS\WANGZHI\DOWNLOADS\CG_HOMEWORK1\EXTERNAL\ASSIMP-5.0.1\CODE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Wangzhi/Downloads/CG_homework1 -BC:/Users/Wangzhi/Downloads/CG_homework1 --check-stamp-file C:/Users/Wangzhi/Downloads/CG_homework1/External/assimp-5.0.1/code/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

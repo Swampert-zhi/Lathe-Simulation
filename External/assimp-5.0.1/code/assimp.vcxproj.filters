@@ -1,0 +1,1859 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\Assimp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\CApi\CInterfaceIOWrapper.cpp">
+      <Filter>CApi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\BaseImporter.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\BaseProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\PostStepRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\ImporterRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\DefaultIOStream.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\DefaultIOSystem.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\ZipArchiveIOSystem.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\Importer.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\SGSpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\VertexTriangleAdjacency.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\SpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\SceneCombiner.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\ScenePreprocessor.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\SkeletonMeshBuilder.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\SplitByBoneCountProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\StandardShapes.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\TargetAnimation.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\RemoveComments.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\Subdivision.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\scene.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\Bitmap.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\Version.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\CreateAnimMesh.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\simd.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\DefaultLogger.cpp">
+      <Filter>Logging</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\Exporter.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\CApi\AssimpCExport.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\CalcTangentsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\ComputeUVMappingProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\ConvertToLHProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\EmbedTexturesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\FindDegenerates.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\FindInstancesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\FindInvalidDataProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\FixNormalsStep.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\DropFaceNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\GenFaceNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\GenVertexNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\PretransformVertices.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\ImproveCacheLocality.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\JoinVerticesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\LimitBoneWeightsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\RemoveRedundantMaterials.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\RemoveVCProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\SortByPTypeProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\SplitLargeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\TextureTransform.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\TriangulateProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\ValidateDataStructure.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\OptimizeGraph.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\OptimizeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\DeboneProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\ProcessHelper.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\MakeVerboseFormat.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\ScaleProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\GenBoundingBoxesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Material\MaterialSystem.cpp">
+      <Filter>MaterialSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Importer\STEPParser\STEPFileReader.cpp">
+      <Filter>STEPParser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Importer\STEPParser\STEPFileEncoding.cpp">
+      <Filter>STEPParser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\AMF\AMFImporter.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\AMF\AMFImporter_Geometry.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\AMF\AMFImporter_Material.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\AMF\AMFImporter_Postprocess.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\3DS\3DSConverter.cpp">
+      <Filter>3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\3DS\3DSLoader.cpp">
+      <Filter>3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\AC\ACLoader.cpp">
+      <Filter>AC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\ASE\ASELoader.cpp">
+      <Filter>ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\ASE\ASEParser.cpp">
+      <Filter>ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Assbin\AssbinLoader.cpp">
+      <Filter>ASSBIN</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\B3D\B3DImporter.cpp">
+      <Filter>B3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\BVH\BVHLoader.cpp">
+      <Filter>BVH</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Collada\ColladaLoader.cpp">
+      <Filter>COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Collada\ColladaParser.cpp">
+      <Filter>COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\DXF\DXFLoader.cpp">
+      <Filter>DXF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\CSM\CSMLoader.cpp">
+      <Filter>CSM</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\HMP\HMPLoader.cpp">
+      <Filter>HMP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Irr\IRRMeshLoader.cpp">
+      <Filter>IRRMESH</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Irr\IRRShared.cpp">
+      <Filter>IRR</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Irr\IRRLoader.cpp">
+      <Filter>IRR</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\LWO\LWOAnimation.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\LWO\LWOBLoader.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\LWO\LWOLoader.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\LWO\LWOMaterial.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\LWS\LWSLoader.cpp">
+      <Filter>LWS</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MD2\MD2Loader.cpp">
+      <Filter>MD2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MD3\MD3Loader.cpp">
+      <Filter>MD3</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MD5\MD5Loader.cpp">
+      <Filter>MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MD5\MD5Parser.cpp">
+      <Filter>MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MDC\MDCLoader.cpp">
+      <Filter>MDC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MDL\MDLLoader.cpp">
+      <Filter>MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MDL\MDLMaterialLoader.cpp">
+      <Filter>MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\NFF\NFFLoader.cpp">
+      <Filter>NFF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\NDO\NDOLoader.cpp">
+      <Filter>NDO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\OFF\OFFLoader.cpp">
+      <Filter>OFF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Obj\ObjFileImporter.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Obj\ObjFileMtlImporter.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Obj\ObjFileParser.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Ogre\OgreImporter.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Ogre\OgreStructs.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Ogre\OgreBinarySerializer.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Ogre\OgreXmlSerializer.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Ogre\OgreMaterial.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\OpenGEX\OpenGEXImporter.cpp">
+      <Filter>OPENGEX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Ply\PlyLoader.cpp">
+      <Filter>PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Ply\PlyParser.cpp">
+      <Filter>PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MS3D\MS3DLoader.cpp">
+      <Filter>MS3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\COB\COBLoader.cpp">
+      <Filter>COB</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Blender\BlenderLoader.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Blender\BlenderDNA.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Blender\BlenderScene.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Blender\BlenderModifier.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Blender\BlenderBMesh.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Blender\BlenderTessellator.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Blender\BlenderCustomData.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Importer\IFC\IFCLoader.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Importer\IFC\IFCReaderGen1_2x3.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Importer\IFC\IFCReaderGen2_2x3.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Importer\IFC\IFCUtil.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Importer\IFC\IFCGeometry.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Importer\IFC\IFCMaterial.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Importer\IFC\IFCProfile.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Importer\IFC\IFCCurve.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Importer\IFC\IFCBoolean.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Importer\IFC\IFCOpenings.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\XGL\XGLLoader.cpp">
+      <Filter>XGL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXImporter.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXParser.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXTokenizer.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXConverter.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXUtil.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXDocument.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXProperties.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXMeshGeometry.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXMaterial.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXModel.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXAnimation.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXNodeAttribute.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXDeformer.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXBinaryTokenizer.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXDocumentUtil.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Q3D\Q3DLoader.cpp">
+      <Filter>Q3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Q3BSP\Q3BSPFileParser.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Q3BSP\Q3BSPFileImporter.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Raw\RawLoader.cpp">
+      <Filter>RAW</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\SIB\SIBImporter.cpp">
+      <Filter>SIB</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\SMD\SMDLoader.cpp">
+      <Filter>SMD</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\STL\STLLoader.cpp">
+      <Filter>STL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Terragen\TerragenLoader.cpp">
+      <Filter>TERRAGEN</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Unreal\UnrealLoader.cpp">
+      <Filter>3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X\XFileImporter.cpp">
+      <Filter>X</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X\XFileParser.cpp">
+      <Filter>X</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X3D\X3DImporter.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X3D\X3DImporter_Geometry2D.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X3D\X3DImporter_Geometry3D.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X3D\X3DImporter_Group.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X3D\X3DImporter_Light.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X3D\X3DImporter_Metadata.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X3D\X3DImporter_Networking.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X3D\X3DImporter_Postprocess.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X3D\X3DImporter_Rendering.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X3D\X3DImporter_Shape.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X3D\X3DImporter_Texturing.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X3D\FIReader.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X3D\X3DVocabulary.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\glTF\glTFCommon.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\glTF\glTFImporter.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\glTF2\glTF2Importer.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\3MF\D3MFImporter.cpp">
+      <Filter>3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\3MF\D3MFOpcPackage.cpp">
+      <Filter>3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MMD\MMDImporter.cpp">
+      <Filter>MMD</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MMD\MMDPmxParser.cpp">
+      <Filter>MMD</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Importer\StepFile\StepFileImporter.cpp">
+      <Filter>STEP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Importer\StepFile\StepFileGen1.cpp">
+      <Filter>STEP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Importer\StepFile\StepFileGen2.cpp">
+      <Filter>STEP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Importer\StepFile\StepFileGen3.cpp">
+      <Filter>STEP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\3DS\3DSExporter.cpp">
+      <Filter>3DS_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Assbin\AssbinExporter.cpp">
+      <Filter>ASSBIN_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Assxml\AssxmlExporter.cpp">
+      <Filter>ASSXML_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Collada\ColladaExporter.cpp">
+      <Filter>COLLADA_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Obj\ObjExporter.cpp">
+      <Filter>OBJ_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\OpenGEX\OpenGEXExporter.cpp">
+      <Filter>OPENGEX_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Ply\PlyExporter.cpp">
+      <Filter>PLY_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXExporter.cpp">
+      <Filter>FBX_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXExportNode.cpp">
+      <Filter>FBX_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXExportProperty.cpp">
+      <Filter>FBX_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\STL\STLExporter.cpp">
+      <Filter>STL_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X\XFileExporter.cpp">
+      <Filter>X_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X3D\X3DExporter.cpp">
+      <Filter>X3D_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\glTF\glTFExporter.cpp">
+      <Filter>GLTF_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\glTF2\glTF2Exporter.cpp">
+      <Filter>GLTF_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\3MF\D3MFExporter.cpp">
+      <Filter>3MF_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Assjson\cencode.c">
+      <Filter>ASSJSON_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Assjson\json_exporter.cpp">
+      <Filter>ASSJSON_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Assjson\mesh_splitter.cpp">
+      <Filter>ASSJSON_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Step\StepExporter.cpp">
+      <Filter>STEP_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\unzip\ioapi.c">
+      <Filter>Contrib\unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\unzip\unzip.c">
+      <Filter>Contrib\unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\poly2tri\poly2tri\common\shapes.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\poly2tri\poly2tri\sweep\advancing_front.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\poly2tri\poly2tri\sweep\cdt.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\poly2tri\poly2tri\sweep\sweep.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\poly2tri\poly2tri\sweep\sweep_context.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\clipper\clipper.cpp">
+      <Filter>Contrib\Clipper</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\openddlparser\code\OpenDDLParser.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\openddlparser\code\DDLNode.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\openddlparser\code\OpenDDLCommon.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\openddlparser\code\OpenDDLExport.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\openddlparser\code\Value.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\openddlparser\code\OpenDDLStream.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcArithmeticCodec.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcDynamicVectorDecoder.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcDynamicVectorEncoder.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcTools.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcTriangleFans.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\zip\src\zip.c">
+      <Filter>ziplib</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\CApi\CInterfaceIOWrapper.h">
+      <Filter>CApi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\BaseProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\Importer.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\ScenePrivate.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\DefaultProgressHandler.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\PolyTools.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\IFF.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\VertexTriangleAdjacency.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\ScenePreprocessor.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\SplitByBoneCountProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\TargetAnimation.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\simd.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\DefaultLogger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\LogStream.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\Logger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\NullLogger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\Win32DebugLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\FileLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Common\StdOStreamLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\BlobIOSystem.h">
+      <Filter>Exporter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\CalcTangentsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\ComputeUVMappingProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\ConvertToLHProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\EmbedTexturesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\FindDegenerates.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\FindInstancesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\FindInvalidDataProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\FixNormalsStep.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\DropFaceNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\GenFaceNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\GenVertexNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\PretransformVertices.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\ImproveCacheLocality.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\JoinVerticesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\LimitBoneWeightsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\RemoveRedundantMaterials.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\RemoveVCProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\SortByPTypeProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\SplitLargeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\TextureTransform.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\TriangulateProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\ValidateDataStructure.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\OptimizeGraph.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\OptimizeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\DeboneProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\ProcessHelper.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\MakeVerboseFormat.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\ScaleProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\PostProcessing\GenBoundingBoxesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Material\MaterialSystem.h">
+      <Filter>MaterialSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Importer\STEPParser\STEPFileReader.h">
+      <Filter>STEPParser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Importer\STEPParser\STEPFileEncoding.h">
+      <Filter>STEPParser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\AMF\AMFImporter.hpp">
+      <Filter>AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\AMF\AMFImporter_Macro.hpp">
+      <Filter>AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\AMF\AMFImporter_Node.hpp">
+      <Filter>AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\3DS\3DSHelper.h">
+      <Filter>3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\3DS\3DSLoader.h">
+      <Filter>3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\AC\ACLoader.h">
+      <Filter>AC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\ASE\ASELoader.h">
+      <Filter>ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\ASE\ASEParser.h">
+      <Filter>ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Assbin\AssbinLoader.h">
+      <Filter>ASSBIN</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\B3D\B3DImporter.h">
+      <Filter>B3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\BVH\BVHLoader.h">
+      <Filter>BVH</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Collada\ColladaHelper.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Collada\ColladaLoader.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Collada\ColladaParser.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\DXF\DXFLoader.h">
+      <Filter>DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\DXF\DXFHelper.h">
+      <Filter>DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\CSM\CSMLoader.h">
+      <Filter>CSM</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\HMP\HMPFileData.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\HMP\HMPLoader.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\HMP\HalfLifeFileData.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Irr\IRRMeshLoader.h">
+      <Filter>IRRMESH</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Irr\IRRShared.h">
+      <Filter>IRR</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Irr\IRRLoader.h">
+      <Filter>IRR</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\LWO\LWOAnimation.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\LWO\LWOFileData.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\LWO\LWOLoader.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\LWS\LWSLoader.h">
+      <Filter>LWS</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MD2\MD2FileData.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MD2\MD2Loader.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MD2\MD2NormalTable.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MD3\MD3FileData.h">
+      <Filter>MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MD3\MD3Loader.h">
+      <Filter>MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MD5\MD5Loader.h">
+      <Filter>MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MD5\MD5Parser.h">
+      <Filter>MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MDC\MDCFileData.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MDC\MDCLoader.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MDC\MDCNormalTable.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MDL\MDLDefaultColorMap.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MDL\MDLFileData.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MDL\MDLLoader.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\NFF\NFFLoader.h">
+      <Filter>NFF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\NDO\NDOLoader.h">
+      <Filter>NDO</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\OFF\OFFLoader.h">
+      <Filter>OFF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Obj\ObjFileData.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Obj\ObjFileImporter.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Obj\ObjFileMtlImporter.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Obj\ObjFileParser.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Obj\ObjTools.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Ogre\OgreImporter.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Ogre\OgreStructs.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Ogre\OgreParsingUtils.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Ogre\OgreBinarySerializer.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Ogre\OgreXmlSerializer.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\OpenGEX\OpenGEXImporter.h">
+      <Filter>OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\OpenGEX\OpenGEXStructs.h">
+      <Filter>OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Ply\PlyLoader.h">
+      <Filter>PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Ply\PlyParser.h">
+      <Filter>PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MS3D\MS3DLoader.h">
+      <Filter>MS3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\COB\COBLoader.h">
+      <Filter>COB</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\COB\COBScene.h">
+      <Filter>COB</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Blender\BlenderLoader.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Blender\BlenderDNA.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Blender\BlenderDNA.inl">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Blender\BlenderScene.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Blender\BlenderSceneGen.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Blender\BlenderIntermediate.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Blender\BlenderModifier.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Blender\BlenderBMesh.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Blender\BlenderTessellator.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Blender\BlenderCustomData.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Importer\IFC\IFCLoader.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Importer\IFC\IFCReaderGen_2x3.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Importer\IFC\IFCUtil.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\XGL\XGLLoader.h">
+      <Filter>XGL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXCompileConfig.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXImporter.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXParser.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXTokenizer.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXImportSettings.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXConverter.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXUtil.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXDocument.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXProperties.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXMeshGeometry.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXCommon.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Q3D\Q3DLoader.h">
+      <Filter>Q3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Q3BSP\Q3BSPFileData.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Q3BSP\Q3BSPFileParser.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Q3BSP\Q3BSPFileImporter.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Raw\RawLoader.h">
+      <Filter>RAW</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\SIB\SIBImporter.h">
+      <Filter>SIB</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\SMD\SMDLoader.h">
+      <Filter>SMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\STL\STLLoader.h">
+      <Filter>STL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Terragen\TerragenLoader.h">
+      <Filter>TERRAGEN</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Unreal\UnrealLoader.h">
+      <Filter>3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X\XFileHelper.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X\XFileImporter.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X\XFileParser.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X3D\X3DImporter.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X3D\X3DImporter_Macro.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X3D\X3DImporter_Node.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X3D\FIReader.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\glTF\glTFCommon.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\glTF\glTFAsset.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\glTF\glTFAsset.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\glTF\glTFAssetWriter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\glTF\glTFAssetWriter.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\glTF\glTFImporter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\glTF2\glTF2Asset.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\glTF2\glTF2Asset.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\glTF2\glTF2AssetWriter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\glTF2\glTF2AssetWriter.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\glTF2\glTF2Importer.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\3MF\D3MFImporter.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\3MF\D3MFOpcPackage.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\3MF\3MFXmlTags.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MMD\MMDCpp14.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MMD\MMDImporter.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MMD\MMDPmdParser.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MMD\MMDPmxParser.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\MMD\MMDVmdParser.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Step\STEPFile.h">
+      <Filter>STEP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Importer\StepFile\StepFileImporter.h">
+      <Filter>STEP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Importer\StepFile\StepReaderGen.h">
+      <Filter>STEP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\3DS\3DSExporter.h">
+      <Filter>3DS_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Assbin\AssbinExporter.h">
+      <Filter>ASSBIN_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Assxml\AssxmlExporter.h">
+      <Filter>ASSXML_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Collada\ColladaExporter.h">
+      <Filter>COLLADA_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Obj\ObjExporter.h">
+      <Filter>OBJ_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\OpenGEX\OpenGEXExporter.h">
+      <Filter>OPENGEX_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Ply\PlyExporter.h">
+      <Filter>PLY_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXExporter.h">
+      <Filter>FBX_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXExportNode.h">
+      <Filter>FBX_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\FBX\FBXExportProperty.h">
+      <Filter>FBX_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\STL\STLExporter.h">
+      <Filter>STL_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X\XFileExporter.h">
+      <Filter>X_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\X3D\X3DExporter.hpp">
+      <Filter>X3D_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\glTF\glTFExporter.h">
+      <Filter>GLTF_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\glTF2\glTF2Exporter.h">
+      <Filter>GLTF_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\3MF\D3MFExporter.h">
+      <Filter>3MF_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Assjson\cencode.h">
+      <Filter>ASSJSON_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Assjson\mesh_splitter.h">
+      <Filter>ASSJSON_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\Step\StepExporter.h">
+      <Filter>STEP_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\irrXMLWrapper.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\unzip\crypt.h">
+      <Filter>Contrib\unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\unzip\ioapi.h">
+      <Filter>Contrib\unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\unzip\unzip.h">
+      <Filter>Contrib\unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\poly2tri\poly2tri\common\shapes.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\poly2tri\poly2tri\common\utils.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\poly2tri\poly2tri\sweep\advancing_front.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\poly2tri\poly2tri\sweep\cdt.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\poly2tri\poly2tri\sweep\sweep.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\poly2tri\poly2tri\sweep\sweep_context.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\clipper\clipper.hpp">
+      <Filter>Contrib\Clipper</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\openddlparser\include\openddlparser\OpenDDLParser.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\openddlparser\include\openddlparser\OpenDDLParserUtils.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\openddlparser\include\openddlparser\OpenDDLCommon.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\openddlparser\include\openddlparser\OpenDDLExport.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\openddlparser\include\openddlparser\OpenDDLStream.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\openddlparser\include\openddlparser\DDLNode.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\openddlparser\include\openddlparser\Value.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcAdjacencyInfo.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcArithmeticCodec.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcBinaryStream.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcCommon.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcDVEncodeParams.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcDynamicVectorDecoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcDynamicVectorEncoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcDynamicVector.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcFIFO.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcIndexedFaceSet.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcIndexedFaceSet.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcSC3DMCDecoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcSC3DMCDecoder.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcSC3DMCEncodeParams.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcSC3DMCEncoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcSC3DMCEncoder.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcTimer.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcTriangleFans.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcTriangleListDecoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcTriangleListDecoder.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcTriangleListEncoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcTriangleListEncoder.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcVector.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\Open3DGC\o3dgcVector.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\zip\src\miniz.h">
+      <Filter>ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\zip\src\zip.h">
+      <Filter>ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\anim.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\aabb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\ai_assert.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\color4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\color4.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\Defines.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\cfileio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\material.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\matrix3x3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\matrix3x3.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\matrix4x4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\matrix4x4.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\pbrmaterial.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\postprocess.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\quaternion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\quaternion.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\metadata.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\vector2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\vector2.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\vector3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\vector3.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\cimport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\importerdesc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\Importer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\ProgressHandler.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\IOStream.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\IOSystem.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\cexport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\Exporter.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\DefaultIOStream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\DefaultIOSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\ZipArchiveIOSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\SceneCombiner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\fast_atof.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\qnan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\BaseImporter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\Hash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\MemoryIOWrapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\ParsingUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\StreamReader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\StreamWriter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\StringComparison.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\StringUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\SGSpatialSort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\GenericProperty.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\SpatialSort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\SkeletonMeshBuilder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\SmoothingGroups.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\SmoothingGroups.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\StandardShapes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\RemoveComments.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\Subdivision.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\Vertex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\LineSplitter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\TinyFormatter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\Profiler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\LogAux.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\Bitmap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\XMLTools.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\IOStreamBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\CreateAnimMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\MathFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\Macros.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\Exceptional.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\ByteSwapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\Compiler\pushpack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\Compiler\poppack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\include\assimp\Compiler\pstdint.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\code\res\assimp.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="3D">
+      <UniqueIdentifier>{3F1588FD-E090-3D35-9733-839974276B52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DS">
+      <UniqueIdentifier>{400EDFEC-C33C-3AC4-99CC-9236904FB34C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DS_EXPORTER">
+      <UniqueIdentifier>{A9231190-9468-3A61-BDFF-155350341D3D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3MF">
+      <UniqueIdentifier>{2E077914-C72A-3FF4-BA86-EA38C2F9D45F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3MF_EXPORTER">
+      <UniqueIdentifier>{DEDC900B-6DF4-3540-BD9D-FAAADF26E541}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AC">
+      <UniqueIdentifier>{E28F20FF-D17D-3C8A-88D1-3C0B1F46DDBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AMF">
+      <UniqueIdentifier>{3CFE98B0-E72A-3670-B69E-8052084AECBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASE">
+      <UniqueIdentifier>{9C7ABD3A-6F0A-39A8-8577-A42F7C1E3D60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASSBIN">
+      <UniqueIdentifier>{9F5F0F3F-7A3C-3685-A613-C3D0480F4A4C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASSBIN_EXPORTER">
+      <UniqueIdentifier>{3B32EF7E-F000-3089-BE66-030811E9B736}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASSJSON_EXPORTER">
+      <UniqueIdentifier>{8D05DC1F-65B8-3ABF-A411-4189AA67F7C9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASSXML_EXPORTER">
+      <UniqueIdentifier>{EA9A7456-019D-3578-8CC9-07EDE79E4730}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="B3D">
+      <UniqueIdentifier>{96810423-3544-3937-9276-C482933562DB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BLEND">
+      <UniqueIdentifier>{A5CDBDBE-7B19-3FF1-898F-18234A669FBC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BVH">
+      <UniqueIdentifier>{C60A953A-D6FF-38BA-9C18-22096BE35FB4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CApi">
+      <UniqueIdentifier>{231A086C-7911-3EB9-B2DD-32E13461390A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COB">
+      <UniqueIdentifier>{EFABAE3B-B494-3F3E-8168-CBD3D201610D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COLLADA">
+      <UniqueIdentifier>{D2F3556D-80CC-35B1-84B5-D18D8F952553}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COLLADA_EXPORTER">
+      <UniqueIdentifier>{D0E7AC98-ECAD-31B3-B9BF-C5D01435DF3F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CSM">
+      <UniqueIdentifier>{6D6F03E9-620D-30A7-A97F-7DE387022F53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{C3261FED-6F05-35AE-9D86-7A79977BBA67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Compiler">
+      <UniqueIdentifier>{CDA739D4-0536-3EEF-AB72-714E223646C5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib">
+      <UniqueIdentifier>{1FE58A94-1F1F-33CD-81A9-0FBC97293D60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\Clipper">
+      <UniqueIdentifier>{C5F5D2A6-6071-3E65-A4F2-1703A2F143AF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\Poly2Tri">
+      <UniqueIdentifier>{F03B4EBB-3EC5-34DB-AD24-5768273D5BB8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\open3dgc">
+      <UniqueIdentifier>{A5296642-970E-3731-87EB-EB0AD678AAEF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\openddl_parser">
+      <UniqueIdentifier>{A6542248-8ADE-3A38-BEE1-3AB7E962B4BE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\unzip">
+      <UniqueIdentifier>{9EF078A3-2D8D-3FEC-904A-A01190600FFB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXF">
+      <UniqueIdentifier>{024F5442-9A3D-3F39-87A4-A6FE0CAB9380}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Exporter">
+      <UniqueIdentifier>{316EEC27-6AB1-3D77-8FCB-76058DAAAA2A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FBX">
+      <UniqueIdentifier>{78D89851-60B2-3658-84F7-A98E22FFE8C1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FBX_EXPORTER">
+      <UniqueIdentifier>{11D441D4-B92D-39F8-AD2D-2C8F91AAC046}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GLTF">
+      <UniqueIdentifier>{B7E6D487-D442-3AEC-9BA5-DF4E02826084}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GLTF_EXPORTER">
+      <UniqueIdentifier>{07955554-C029-3C65-8736-E0AA56252861}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HMP">
+      <UniqueIdentifier>{CB558F9A-683C-36A1-A4E7-1A7264175C52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D63A96C1-118A-3EDA-8211-7B74503F4F80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IFC">
+      <UniqueIdentifier>{CAC63FFA-E2C0-3F0A-AEE1-B7132CE5D4C1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IRR">
+      <UniqueIdentifier>{166C7BC0-8DF0-334F-A516-CE23CBC8AB2D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IRRMESH">
+      <UniqueIdentifier>{4636ED36-BED5-3187-B2C0-179A12EEF23D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IrrXML">
+      <UniqueIdentifier>{84A9E67D-F2A7-374E-B6E4-9CB3CB04189D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LWO">
+      <UniqueIdentifier>{795ACD3D-6057-3B21-ACD9-1D40C9556664}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LWS">
+      <UniqueIdentifier>{EB18E448-2D6F-3834-AC11-E186136C6585}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logging">
+      <UniqueIdentifier>{69D1DFEF-ADD8-3BB1-9F9A-1399710E2911}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD2">
+      <UniqueIdentifier>{039D68E8-E2F9-37F5-9E8E-C068CE078510}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD3">
+      <UniqueIdentifier>{0F28147E-F9FB-3AC5-A9CB-6F9B250F6590}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD5">
+      <UniqueIdentifier>{455E94C5-313D-3F62-BB0F-75DF20E44229}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MDC">
+      <UniqueIdentifier>{69687FDB-2967-34BE-9CEA-1AEDF908E97A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MDL">
+      <UniqueIdentifier>{C302A31E-D5D7-3EEC-8AB1-A2281069CB0B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MMD">
+      <UniqueIdentifier>{6E78FFD6-7C89-3917-950E-C79C3037BDFB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MS3D">
+      <UniqueIdentifier>{1E1A88E7-87EA-31E5-ABD3-6B72EDF24578}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MaterialSystem">
+      <UniqueIdentifier>{CB275BC9-AEE5-3A45-B7BD-0A793881B978}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NDO">
+      <UniqueIdentifier>{E6F9EE69-7E39-3A5F-8860-9F6445B4AAFD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NFF">
+      <UniqueIdentifier>{AF1D2799-A9D5-34F3-A327-0E76F01E81F9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OBJ">
+      <UniqueIdentifier>{ACADFB44-5DEC-3B70-880A-629F4CABC919}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OBJ_EXPORTER">
+      <UniqueIdentifier>{012EA93F-682F-3159-BEC1-6590F16C4B4A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OFF">
+      <UniqueIdentifier>{B347A99F-342D-3317-AD8C-23F50E39DD9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OGRE">
+      <UniqueIdentifier>{5DB8817E-8AB4-3709-B433-F373684D07C4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OPENGEX">
+      <UniqueIdentifier>{7FF93A45-947F-338A-8F48-EF6E4CBC973A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OPENGEX_EXPORTER">
+      <UniqueIdentifier>{6E733020-DA6C-3BBB-8785-35D007E1B262}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PLY">
+      <UniqueIdentifier>{DFEFED9A-EA7C-33D8-9921-B030ED12FEDD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PLY_EXPORTER">
+      <UniqueIdentifier>{272CF6E7-3A1C-3834-886B-7150832DC4D1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PostProcessing">
+      <UniqueIdentifier>{4BB43E3E-E425-3ADA-B49C-DBB08E5C8920}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q3BSP">
+      <UniqueIdentifier>{C77A1562-AF13-32ED-A633-DE9B3611AEC4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q3D">
+      <UniqueIdentifier>{00FEF83E-FE6F-3DCF-BC57-0D5DCDAC7741}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RAW">
+      <UniqueIdentifier>{CBD022AF-6AF7-302A-B9F1-97A25C34ED03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SIB">
+      <UniqueIdentifier>{2C169595-F97C-3B2C-8DEC-FC90D6BAC1EF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SMD">
+      <UniqueIdentifier>{9B5748BE-A253-3BF7-8131-45EA19157AA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STEP">
+      <UniqueIdentifier>{194820C6-BABC-3EF0-947F-8432A5E20B02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STEPParser">
+      <UniqueIdentifier>{76B16AE7-231F-39E6-9821-EAD827AD2BAB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STEP_EXPORTER">
+      <UniqueIdentifier>{EB7235D0-5EDE-3CC8-9D18-F0D42FB68D73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STL">
+      <UniqueIdentifier>{998545AE-F101-3E47-BCC8-F169A64D4BE5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STL_EXPORTER">
+      <UniqueIdentifier>{EC58D8C0-95A6-3EE7-9AFC-E5F062AA5930}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{479CC8F2-6F63-30D6-839E-036E2F8173EC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TERRAGEN">
+      <UniqueIdentifier>{BBFE37EC-6278-3D2F-A078-2AAAE46C6BF8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X">
+      <UniqueIdentifier>{7405530F-EF43-3ABA-A7E6-56422FE0A345}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X3D">
+      <UniqueIdentifier>{608500F3-35C1-3E3F-A7A3-B4734349CB42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X3D_EXPORTER">
+      <UniqueIdentifier>{A7D4B6E9-F843-35C6-9A9D-82753E55A2D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XGL">
+      <UniqueIdentifier>{B352A99F-D629-37E8-96E2-8BE908E90841}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X_EXPORTER">
+      <UniqueIdentifier>{19A17845-5D0B-32CC-AE00-6F1A67AFE457}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ziplib">
+      <UniqueIdentifier>{885F7C47-D5B8-3991-B641-5C922DADA493}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

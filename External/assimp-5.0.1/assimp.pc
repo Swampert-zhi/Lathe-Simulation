@@ -1,0 +1,11 @@
+prefix=C:/Program Files (x86)/CG_OpenGL
+exec_prefix=C:/Program Files (x86)/CG_OpenGL/
+libdir=C:/Program Files (x86)/CG_OpenGL/lib
+includedir=C:/Program Files (x86)/CG_OpenGL/../include/include
+
+Name: CG_OpenGL
+Description: Import various well-known 3D model formats in an uniform manner.
+Version: 5.0.0
+Libs: -L${libdir} -lassimp
+Libs.private:  
+Cflags: -I${includedir}

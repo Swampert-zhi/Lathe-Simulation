@@ -1,0 +1,2 @@
+C:\Users\Wangzhi\Downloads\CG_homework1\lib\Debug\IrrXML.pdb
+C:\Users\Wangzhi\Downloads\CG_homework1\External\assimp-5.0.1\contrib\irrXML\IrrXML.dir\Debug\IrrXML.pdb

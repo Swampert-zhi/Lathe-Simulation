@@ -1,0 +1,23 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/FindPkgConfig.cmake
+C:/Users/Wangzhi/Downloads/CG_homework1/External/assimp-5.0.1/CMakeLists.txt
+C:/Users/Wangzhi/Downloads/CG_homework1/External/assimp-5.0.1/assimp-config-version.cmake.in
+C:/Users/Wangzhi/Downloads/CG_homework1/External/assimp-5.0.1/assimp-config.cmake.in
+C:/Users/Wangzhi/Downloads/CG_homework1/External/assimp-5.0.1/assimp.pc.in
+C:/Users/Wangzhi/Downloads/CG_homework1/External/assimp-5.0.1/assimpTargets-debug.cmake.in
+C:/Users/Wangzhi/Downloads/CG_homework1/External/assimp-5.0.1/assimpTargets-release.cmake.in
+C:/Users/Wangzhi/Downloads/CG_homework1/External/assimp-5.0.1/assimpTargets.cmake.in
+C:/Users/Wangzhi/Downloads/CG_homework1/External/assimp-5.0.1/cmake-modules/FindDirectX.cmake
+C:/Users/Wangzhi/Downloads/CG_homework1/External/assimp-5.0.1/cmake-modules/FindPkgMacros.cmake
+C:/Users/Wangzhi/Downloads/CG_homework1/External/assimp-5.0.1/cmake-modules/FindZLIB.cmake
+C:/Users/Wangzhi/Downloads/CG_homework1/External/assimp-5.0.1/cmake-modules/PrecompiledHeader.cmake
+C:/Users/Wangzhi/Downloads/CG_homework1/External/assimp-5.0.1/cmake/HunterGate.cmake
+C:/Users/Wangzhi/Downloads/CG_homework1/External/assimp-5.0.1/include/assimp/config.h.in
+C:/Users/Wangzhi/Downloads/CG_homework1/External/assimp-5.0.1/revision.h.in
